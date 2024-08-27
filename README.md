@@ -3,7 +3,7 @@
 
 ¡Hola! Soy Karina 🤗
 
-Desde pequeña, me ha encantado planificar y gestionar cada actividad en la que he emprendido, como agendar diariamente mis actividades y hobbies. Este interés me llevó a estudiar la Licenciatura en Comercio Internacional, con un enfoque en la logística de la cadena de suministro.
+Desde muy pequeña, me ha encantado planificar y gestionar cada actividad en la que he emprendido, como agendar diariamente mis actividades y hobbies. Este interés me llevó a estudiar la Licenciatura en Comercio Internacional, con un enfoque en la logística de la cadena de suministro.
 
 Actualmente, me encuentro en formación como Analista de Datos en un bootcamp intensivo. Estoy adquiriendo experiencia en recolectar, procesar, crear, limpiar, transformar y visualizar datos utilizando herramientas como Spreadsheets, BigQuery, Power BI y Looker Studio.
 
